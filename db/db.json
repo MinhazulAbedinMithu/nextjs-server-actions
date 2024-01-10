@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "I Phone",
+      "price": 999,
+      "id": "0950"
+    },
+    {
+      "name": "G Phone",
+      "price": 99,
+      "id": "94df"
+    }
+  ],
+  "todos": [
+    {
+      "name": "Redux video",
+      "status": "in progress"
+    },
+    {
+      "name": "huangChuang Fiverr",
+      "status": "Completed"
+    }
+  ]
+}
